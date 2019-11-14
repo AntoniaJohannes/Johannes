@@ -161,7 +161,7 @@ In der letzten Stunde vor den Ferien haben wir uns Gedanken über das Ende des S
 
 ![WinningCoins](https://github.com/AntoniaJohannes/Stundenprotokoll/blob/master/WCs.PNG)
 
-Wir setzten die Mindestanzahl auf 30 Coins und programmierten außerdem, dass der zweite Spieler durch Einsammeln des gegnerischen WinningCoins den Gegner auf 20 Coins zurücksetzen kann. Allerdings stießen wir hier auf verschiedene Probleme: Die WinningCoins waren zwar unsichtbar, aber dennoch auf dem Spielfeld, weshalb man ungewollt auf einmal 20 Coins hatte, da man den WinningCoin unwissend berührt hatte.
+Wir setzten die Mindestanzahl für das Erscheinen der WinningCoins auf 30 Coins und programmierten außerdem, dass der zweite Spieler durch Einsammeln des gegnerischen WinningCoins den Gegner auf 20 Coins zurücksetzen kann. Allerdings stießen wir hier auf verschiedene Probleme: Die WinningCoins waren zwar unsichtbar, aber dennoch auf dem Spielfeld, weshalb man ungewollt auf einmal 20 Coins hatte, da man den WinningCoin unwissend berührt hatte.
 Außerdem funktionierte das geplante Standbild nicht, da sich die Charaktere weiterhin bewegen können. Zudem bewegten sich auch noch die Sterne im Hintergrund. In der nächsten Stunde müssen wir uns hierfür eine Alternative überlegen.
 
 
