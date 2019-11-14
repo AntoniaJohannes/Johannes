@@ -191,6 +191,7 @@ Jetzt, wo das Grundspiel fertig ist, wollen wir weitere Hindernisse einfügen, u
 
 ![Bildschirmfoto Player 2 wins](https://github.com/AntoniaJohannes/Johannes/blob/master/Bildschirmfoto%20Player%202%20wins.jpeg)
 
+Letztendlich weicht das Spiel zwar von der [ursprünglich beschriebenen Idee](#10) ab, nichtsdestotrotz entspricht es dem Grundschema.
 
 ### Dienstag, 29.10.2019<a name="20"></a>
 
