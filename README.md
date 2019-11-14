@@ -51,6 +51,8 @@
 
 [25. Dienstag, 12.11.2019](#25)
 
+[26. Donnerstag, 14.11.2019](#26)
+
 
 ### Dienstag, 13.08.2019<a name="1"></a>
 
@@ -226,3 +228,8 @@ Nachdem wir die Projektseite heute zusammen noch ein letztes Mal durchgegangen s
 SpaceCollector:  https://studio.code.org/projects/gamelab/7G1n-J1ZHxGsOA5-wcynzeOqAHwWLhN4u_mioXmjiS0
 
 Nun sind wir fertig. Wir sind stolz auf unsere Leistung und werden nun Ideen für eine Weiterentwicklung sammeln, welche nicht mehr vor Abgabe ins Spiel eingefügt werden wird.
+
+
+### Donnerstag, 14.11.2019<a name="26"></a>
+
+Dies ist die letzte Stunde vor Abgabe des Projekts. Heute haben wir alle Texte nochmal korrekturgelesen und die E-Mail an Herrn Buhl verfasst und abgeschickt.
