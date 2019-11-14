@@ -86,7 +86,7 @@ Heute setzen wir das Tutorial fort und sprechen über erste Spielideen. Diese wa
 
 ### Donnerstag, 22.08.2019<a name="6"></a>
 
-Das Tutorial auf studio.code.org habe ich heute weitergeführt und beschlossen, dieses bis zur nächsten Stunde am Dienstag zu Hause zu beenden, um eine gute Grundlage für folgende Stunden zu schaffen. Zudem habe ich unser Stundenprotokoll mit Verknüpfungen zu den einzelnen Tagen ausgestattet und aktualisiert, um sowohl eine gute Struktur und Übersicht zu haben als auch demnächst direkt weitere Verknüpfungen erstellen zu können.
+Das Tutorial auf [studio.code.org](https://studio.code.org/courses) habe ich (Johannes) heute weitergeführt und beschlossen, dieses bis zur nächsten Stunde am Dienstag zu Hause zu beenden, um eine gute Grundlage für folgende Stunden zu schaffen. Zudem habe ich unser Stundenprotokoll mit Verknüpfungen zu den einzelnen Tagen ausgestattet und aktualisiert, um sowohl eine gute Struktur und Übersicht zu haben als auch demnächst direkt weitere Verknüpfungen erstellen zu können.
 
 ![GitHub Links](https://github.com/AntoniaJohannes/Stundenprotokoll/blob/master/GitHub%202.PNG)
 
@@ -111,7 +111,7 @@ Am heutigen Tag haben wir uns mit dem Hochladen von Bildern bei GitHub befasst u
 
 ### Mittwoch, 11.09.2019<a name="10"></a>
 
-In der heutigen Unterrichtsstunde haben wir besprochen und anschließend festgelegt, wie unser selstprogrammiertes Spiel aussehen soll. Dieses soll in das Collector Genre fallen. Wir haben uns dazu entschlossen, ein Comuterspiel zu programmieren, in dem zwei Spieler gegeneinander spielen. Das bedeutet, dass es Spieler 1 und 2 gibt und sie mit unterschiedlichen Tasten zu steuern sind. Außerdem haben wir uns dazu entschieden, eine Art Parkour zu programmieren, in dessen Ziel es sein soll, als erster eine von uns festgelegten Zahl Münzen oder Punkte zu erreichen. Diese erhält man, indem man sie mit seiner Spielfigur berührt. Es soll unterschiedliche Münzen mit unterschiedlichem Wert geben, die wertvolleren Münzen sollen durch Hindernisse schwer zu erreichen sein. Außerdem soll es Münzen geben, die Punkte abziehen und die die Spieler dementsprechend meiden sollen. Wir überlegen, nicht nur Hindernisse, sondern auch Gegner zu programmieren, die die Spieler umgehen oder bekämpfen sollen. Die Kulisse des Spiels haben wir ebenfalls noch nicht entgültig festgelegt. 
+In der heutigen Unterrichtsstunde haben wir besprochen und anschließend festgelegt, wie unser selstprogrammiertes Spiel aussehen soll. Dieses soll in das Collector Genre fallen. Wir haben uns dazu entschlossen, ein Computerspiel zu programmieren, in dem zwei Spieler gegeneinander spielen. Das bedeutet, dass es Spieler 1 und 2 gibt und sie mit unterschiedlichen Tasten zu steuern sind. Außerdem haben wir uns dazu entschieden, eine Art Parkour zu programmieren, in dessen Ziel es sein soll, als erster eine von uns festgelegten Zahl Münzen oder Punkte zu erreichen. Diese erhält man, indem man sie mit seiner Spielfigur berührt. Es soll unterschiedliche Münzen mit unterschiedlichem Wert geben, die wertvolleren Münzen sollen durch Hindernisse schwer zu erreichen sein. Außerdem soll es Münzen geben, die Punkte abziehen und die die Spieler dementsprechend meiden sollen. Wir überlegen, nicht nur Hindernisse, sondern auch Gegner zu programmieren, die die Spieler umgehen oder bekämpfen sollen. Die Kulisse des Spiels haben wir ebenfalls noch nicht entgültig festgelegt. 
 
 
 ### Donnerstag, 12.09.2019<a name="11"></a>
