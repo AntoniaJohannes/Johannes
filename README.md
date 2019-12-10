@@ -234,3 +234,16 @@ Nun sind wir fertig. Wir sind stolz auf unsere Leistung und werden nun Ideen fü
 ### Donnerstag, 14.11.2019<a name="26"></a>
 
 Dies ist die letzte Stunde vor Abgabe des Projekts. Heute haben wir alle Texte nochmal korrekturgelesen und die E-Mail an Herrn Buhl verfasst und abgeschickt.
+
+### Dienstag, 03.12.2019<a name="27"></a>
+
+Heute haben wir die Noten för unser Informatikprojekt bekommen. Wir haben den Rest der Zeit genutzt, um zu besprechen wie wir vorgehen wollen. Wir hatten ja noch einige Ideen für unser Projekt, die wir bis jetzt aus zeitlichen Gründen nicht umsetzen konnten. Diese Dinge wollen wir dann in diesem Halbjahr hinzufügen. Wir haben zum Beispiel an einen Start- sowie Pausenbildschirm oder an eine verbesserung des Endbildschirms gedacht. Außerdem haben wir die Idee, einen Neustart einzuführen.
+
+### Mittwoch, 04.12.2019<a name="28"></a>
+
+
+### Donnerstag, 05.12.2019<a name="29"></a>
+
+### Dienstag, 10.12.2019<a name="30"></a>
+
+Heute war Johannes leider krank. Ich habe unser Stundenprotokoll vervollständigt und überlegt, wie man unsere Ideen umsetzen kann. Außerdem habe ich mir überlegt wie genau die verschiedenen Bildschirme aussehen sollen und was man noch verbessern könnte.
