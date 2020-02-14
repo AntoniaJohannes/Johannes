@@ -1,4 +1,4 @@
-# Antonia Schröder und Johannes Perlitz: Stundenprotokoll 12/1
+# Stundenprotokoll 12/1: SpaceCollector
 ## Inhaltsverzeichnis
 
 [1. Dienstag, 13.08.2019](#1)
